@@ -139,13 +139,11 @@ img {
 @media screen and (max-width:480px ) {
     .row{
         flex-direction: column;
-        row-gap: 70px;
 
-      
     }
     p{
-        font-size: 1 rem;
-    } 
+        
+    }
     .lessons .col,
     .steps .col,
     .why-us .col {
